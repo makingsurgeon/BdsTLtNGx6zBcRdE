@@ -4,3 +4,4 @@ A small startup uses this algorithm to predict if the customer is more likely to
 
 ### Data Description
 The dataset contains 13 explanatory variables:
+age, job, martial
