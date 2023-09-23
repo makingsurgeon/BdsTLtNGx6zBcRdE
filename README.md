@@ -1,2 +1,6 @@
 # Term Deposit
-This repo contains files for predicting whether a customer has a term deposit with the bank or not.
+### Introduction
+A small startup uses this algorithm to predict if the customer is more likely to buy a term deposit.
+
+### Data Description
+The dataset contains 13 explanatory variables:
